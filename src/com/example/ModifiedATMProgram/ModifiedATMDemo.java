@@ -33,6 +33,13 @@ public class ModifiedATMDemo {
                 System.out.println("$" + myATM.getWithdrawAmount() + " withdrawn successfully.");
                 System.out.println();
                 break;
+            case 3:
+                System.out.println();
+                System.out.println("Current balance is $ " + myATM.calculateBalance(););
+                System.out.println();
+                break;
+
+
 
         }
 

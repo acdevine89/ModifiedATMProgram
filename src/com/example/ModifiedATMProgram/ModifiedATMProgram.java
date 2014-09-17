@@ -4,7 +4,11 @@ public class ModifiedATMProgram {
 
     private double depositAmount;
     private double withdrawAmount;
-    private double balanceAmount;
+    private double balanceAmount = 0;
+
+    void calculateBalance() {
+        System.out.println("Current balance is $ " + (balanceAmount + depositAmount - withdrawAmount) + ".");
+    }
 
     public void setDepositAmount(double userDeposit) {
         depositAmount = userDeposit;
