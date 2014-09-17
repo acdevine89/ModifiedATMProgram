@@ -1,7 +1,5 @@
 package com.example.ModifiedATMProgram;
+import java.util.Scanner;
 
-/**
- * Created by anniedevine on 9/17/14.
- */
 public class ModifiedATMDemo {
 }
