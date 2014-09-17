@@ -19,7 +19,15 @@ public class ModifiedATMDemo {
         userChoice = user.nextInt();
 
         switch (userChoice) {
-            
+            case 1:
+                System.out.println();
+                System.out.print("Deposit amount: $");
+                myATM.setDepositAmount(user.nextDouble());
+                System.out.println("$" + myATM.getDepositAmount() + " deposited successfully.");
+                System.out.println();
+                break;
+            case 2:
+
         }
 
     } while (!quit);
