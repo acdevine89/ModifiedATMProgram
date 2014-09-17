@@ -51,8 +51,8 @@
       <file leaf-file-name="ModifiedATMDemo.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55414015" vertical-offset="444" max-vertical-offset="915">
-              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.8089172" vertical-offset="429" max-vertical-offset="945">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -77,8 +77,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="34" />
+    <option name="x" value="-9" />
+    <option name="y" value="33" />
     <option name="width" value="1377" />
     <option name="height" value="778" />
   </component>
@@ -332,7 +332,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="34" width="1377" height="778" extended-state="0" />
+    <frame x="-9" y="33" width="1377" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -407,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55414015" vertical-offset="444" max-vertical-offset="915">
-          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.8089172" vertical-offset="429" max-vertical-offset="945">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
           <folding />
         </state>
       </provider>

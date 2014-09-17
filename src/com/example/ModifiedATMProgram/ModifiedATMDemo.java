@@ -50,6 +50,8 @@ public class ModifiedATMDemo {
 
     } while (!quit);
 
-
+        System.out.println();
+        System.out.println("Goodbye!");
+        
     }
 }
