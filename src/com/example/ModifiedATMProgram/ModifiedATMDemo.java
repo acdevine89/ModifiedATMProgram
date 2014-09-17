@@ -27,6 +27,12 @@ public class ModifiedATMDemo {
                 System.out.println();
                 break;
             case 2:
+                System.out.println();
+                System.out.print("Withdraw amount: $");
+                myATM.setWithdrawAmount(user.nextDouble());
+                System.out.println("$" + myATM.getWithdrawAmount() + " withdrawn successfully.");
+                System.out.println();
+                break;
 
         }
 
