@@ -5,8 +5,17 @@ public class ModifiedATMDemo {
     public static void main(String[] args) {
 
     Scanner user = new Scanner(System.in);
+    int userChoice;
     ModifiedATMProgram myATM = new ModifiedATMProgram();
 
+
+        System.out.println("ATM Menu: What would you like to do?");
+        System.out.println("1 - Deposit funds");
+        System.out.println("2 - Withdraw funds");
+        System.out.println("3 - Check balance");
+        System.out.println("4 - Quit program");
+        System.out.print("Enter menu selection by typing number here: ");
+        userChoice = user.nextInt();
 
     }
 }
