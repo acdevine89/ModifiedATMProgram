@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a424d68-44c7-4c0e-a5ab-58d42fa6b01f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java" afterPath="$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMProgram.java" afterPath="$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMProgram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ModifiedATMProgram.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +25,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ModifiedATMProgram.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ModifiedATMProgram.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50955415" vertical-offset="0" max-vertical-offset="645">
-              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#384#385#0" expanded="true" />
                 <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
                 <element signature="e#530#531#0" expanded="true" />
                 <element signature="e#589#590#0" expanded="true" />
                 <element signature="e#635#636#0" expanded="true" />
@@ -49,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModifiedATMDemo.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ModifiedATMDemo.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="840">
-              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.55414015" vertical-offset="444" max-vertical-offset="915">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -385,21 +384,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="840">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50955415" vertical-offset="0" max-vertical-offset="645">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#384#385#0" expanded="true" />
             <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
             <element signature="e#530#531#0" expanded="true" />
             <element signature="e#589#590#0" expanded="true" />
             <element signature="e#635#636#0" expanded="true" />
@@ -410,6 +402,14 @@
             <element signature="e#829#830#0" expanded="true" />
             <element signature="e#865#866#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/ModifiedATMProgram/ModifiedATMDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55414015" vertical-offset="444" max-vertical-offset="915">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

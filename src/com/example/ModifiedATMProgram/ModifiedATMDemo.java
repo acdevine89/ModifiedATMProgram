@@ -38,9 +38,14 @@ public class ModifiedATMDemo {
                 System.out.println("Current balance is $ " + myATM.calculateBalance(););
                 System.out.println();
                 break;
-
-
-
+            case 4:
+                quit = true;
+                break;
+            default:
+                System.out.println();
+                System.out.println("Invalid choice. Please select 1, 2, 3 or 4.");
+                System.out.println();
+                break;
         }
 
     } while (!quit);
