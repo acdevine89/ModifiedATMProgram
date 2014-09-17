@@ -6,9 +6,10 @@ public class ModifiedATMDemo {
 
     Scanner user = new Scanner(System.in);
     int userChoice;
+    boolean quit = false;
     ModifiedATMProgram myATM = new ModifiedATMProgram();
 
-
+    do {
         System.out.println("ATM Menu: What would you like to do?");
         System.out.println("1 - Deposit funds");
         System.out.println("2 - Withdraw funds");
@@ -16,6 +17,13 @@ public class ModifiedATMDemo {
         System.out.println("4 - Quit program");
         System.out.print("Enter menu selection by typing number here: ");
         userChoice = user.nextInt();
+
+        switch (userChoice) {
+            
+        }
+
+    } while (!quit);
+
 
     }
 }
