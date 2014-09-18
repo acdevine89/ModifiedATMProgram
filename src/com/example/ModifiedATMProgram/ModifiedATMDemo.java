@@ -35,7 +35,7 @@ public class ModifiedATMDemo {
                 break;
             case 3:
                 System.out.println();
-                System.out.println("Current balance is $ " + myATM.calculateBalance(););
+                System.out.println("Current balance is $" + myATM.getBalanceAmount() + ".");
                 System.out.println();
                 break;
             case 4:
@@ -52,6 +52,6 @@ public class ModifiedATMDemo {
 
         System.out.println();
         System.out.println("Goodbye!");
-        
+
     }
 }
